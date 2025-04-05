@@ -1,0 +1,22 @@
+# Data Processing and EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning and NLP
+scikit-learn
+transformers
+torch
+joblib
+shap
+
+# API Deployment
+fastapi
+uvicorn
+
+# Testing
+pytest
+httpx
+
+
