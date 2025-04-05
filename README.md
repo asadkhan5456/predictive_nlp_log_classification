@@ -86,7 +86,6 @@ Download the [BGL Log Dataset](https://www.kaggle.com/datasets/beosup/bgl-log-da
 Visit http://localhost:8000 to verify the welcome message.
 
 6. **Test the API Endpoint: Send a POST request to /predict with a sample log message:**
-    ```json
    {
   "log_message": "Your sample log message here..."
 }
